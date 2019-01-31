@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Submachine_Gun_Fire.wav-be4ec6658d39712a5ff2cc0c2eed6080.sample"
+
+[deps]
+
+source_file="res://assets/sound/Submachine_Gun_Fire.wav"
+dest_files=[ "res://.import/Submachine_Gun_Fire.wav-be4ec6658d39712a5ff2cc0c2eed6080.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
